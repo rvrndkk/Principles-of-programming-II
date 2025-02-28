@@ -1,0 +1,24 @@
+Task  1.
+In TOGAF, Preliminary phase located outside of ADM circle because it is axle for it. Furthermore, preliminary phase sets up architectural practice
+& architectural capabilities before development begins. So, key objective of the Preliminary Phase is to establish the
+Architecture Capability for the enterprise. Thats why it is outside.
+
+Task 2.
+Toyota Connected is Toyota’s data-driven mobility services division, leveraging cloud
+services to enhance scalability, flexibility, and cost-effectiveness. So, they using cloud services like google cloud to scale operations globally without buying huge data centers.
+Also they deploy microservice architectuure in cloud allowing many services (telematics, navigation and etc.) evolve without system-wide updates.
+Furthermore, cloud computing is used to make AI-driven predictive maintenance to minimize vehicle servicing costs.
+
+Task 3.
+Bussines vision is a strategic goal of company, what the company wants to achieve in long term. At the same time Architechture vision is a technologies, methods, systems used to achieve bussines vision.
+For example Tesla company. Its bussines vision: "To create the most compelling car company of the 21st century by driving the world’s transition to electric vehicles.". Tesla’s Architecture Vision: Designing a cloud-based, AI-driven energy management system for autonomous driving.
+
+Task 4.
+A clear set vision lets companies to align IT investments, innovation, and business strategy. So, it provides a roadmap for rapid adaptation to market changes and encourages strategic alignment.
+From examples i can especially highlight apple,tesla and toyota.
+Tesla developed an integrated AI, battery technology, and cloud ecosystem for smart vehicles.
+Apple did a big job in "Think different" marketing company and did custom silicon chips and performance optimization for them.
+Toyota invested in Toyota Connected Cloud for AI-driven mobility solutions.
+
+
+ 
